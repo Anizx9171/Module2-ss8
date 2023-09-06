@@ -1,0 +1,10 @@
+#sidebar {
+    position: absolute !important;
+    bottom: 5.8rem !important;
+    background-color: rgba(0, 0, 0, 0.411);
+}
+
+#mainNav {
+    background-color: #333333e5 !important;
+    height: 4.5rem !important;
+}
